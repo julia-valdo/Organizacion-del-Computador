@@ -8,4 +8,4 @@ Cátedra Moreno. Manejo general de instrucciones en alto y bajo nivel.
 * lab3: Implementación de TDA cola y resolución de "bomblab" (lenguaje: Assembly).
 * TP1:  Simulador de cache (lenguaje: C).
 
-Trabajos hechos con colaboración de Marcos Vargas (https://github.com/marcosldvargas).
+Trabajos hechos en colaboración con Marcos Vargas (https://github.com/marcosldvargas).
