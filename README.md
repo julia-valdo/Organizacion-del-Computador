@@ -1,6 +1,6 @@
 # Organizacion-del-Computador
 
-Cátedra Moreno. Lenguajes C, Rust, Assembly. Manejo de general de instrucciones en alto y bajo nivel.
+Cátedra Moreno. Lenguajes C, Rust, Assembly. Manejo general de instrucciones en alto y bajo nivel.
 
 ### Trabajos prácticos
 * lab1 : manejo de bits, operaciones lógicas, aritméticas. Lenguaje C.
